@@ -1,0 +1,93 @@
+{
+  "categories": [
+    "All",
+    "Residential",
+    "Kitchen",
+    "Bedroom",
+    "Living Room",
+    "Office",
+    "Commercial"
+  ],
+  "items": [
+    {
+      "id": "modern-bhk-residence",
+      "title": "Modern 3BHK Residence",
+      "location": "Howrah",
+      "type": "Residential",
+      "category": "Residential",
+      "imageId": "home-interior",
+      "image": "assets/images/home-interior.webp",
+      "alt": "Modern 3BHK Residence — Residential in Howrah"
+    },
+    {
+      "id": "marble-gold-tv-feature-wall",
+      "title": "Marble & Gold TV Feature Wall",
+      "location": "Howrah",
+      "type": "Living Room Interior",
+      "category": "Living Room",
+      "imageId": "living-room",
+      "image": "assets/images/living-room.webp",
+      "alt": "Marble & Gold TV Feature Wall — Living Room Interior in Howrah"
+    },
+    {
+      "id": "contemporary-apartment-interior",
+      "title": "Contemporary Apartment Interior",
+      "location": "Shibpur",
+      "type": "Bedroom Wardrobe & Dresser",
+      "category": "Bedroom",
+      "imageId": "bedroom",
+      "image": "assets/images/bedroom.webp",
+      "alt": "Contemporary Apartment Interior — Bedroom Wardrobe & Dresser in Shibpur"
+    },
+    {
+      "id": "modern-modular-kitchen",
+      "title": "Modern Modular Kitchen",
+      "location": "Santragachi",
+      "type": "Modular Kitchen",
+      "category": "Kitchen",
+      "imageId": "modular-kitchen",
+      "image": "assets/images/modular-kitchen.webp",
+      "alt": "Modern Modular Kitchen — Modular Kitchen in Santragachi"
+    },
+    {
+      "id": "office-display-storage-wall",
+      "title": "Office Display & Storage Wall",
+      "location": "Howrah",
+      "type": "Office Interior",
+      "category": "Office",
+      "imageId": "office-interior",
+      "image": "assets/images/office-interior.webp",
+      "alt": "Office Display & Storage Wall — Office Interior in Howrah"
+    },
+    {
+      "id": "under-stair-vanity-design",
+      "title": "Under-Stair Vanity Design",
+      "location": "Bally",
+      "type": "Residential Bathroom",
+      "category": "Residential",
+      "imageId": "bathroom-vanity",
+      "image": "assets/images/bathroom-vanity.webp",
+      "alt": "Under-Stair Vanity Design — Residential Bathroom in Bally"
+    },
+    {
+      "id": "two-tone-modular-kitchen",
+      "title": "Two-Tone Modular Kitchen",
+      "location": "Liluah",
+      "type": "Modular Kitchen",
+      "category": "Kitchen",
+      "imageId": "modular-kitchen-blue",
+      "image": "assets/images/modular-kitchen-blue.webp",
+      "alt": "Two-Tone Modular Kitchen — Modular Kitchen in Liluah"
+    },
+    {
+      "id": "marble-finish-tv-console",
+      "title": "Marble Finish TV Console",
+      "location": "Belur",
+      "type": "Living Room Interior",
+      "category": "Commercial",
+      "imageId": "commercial-interior",
+      "image": "assets/images/commercial-interior.webp",
+      "alt": "Marble Finish TV Console — Living Room Interior in Belur"
+    }
+  ]
+}

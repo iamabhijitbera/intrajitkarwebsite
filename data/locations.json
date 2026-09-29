@@ -1,0 +1,654 @@
+{
+  "items": [
+    {
+      "slug": "howrah",
+      "name": "Howrah",
+      "intro": "Howrah homes range from old family houses near the riverfront to new apartment towers along the bypass, and each needs a different interior approach. We plan interiors that respect the existing structure while bringing in modern storage, lighting and finishes.",
+      "context": "Being close to the Hooghly, humidity is a real design factor here. We favour moisture-resistant boards, sealed edges and finishes that stay stable through the monsoon, and plan ventilation and lighting so rooms feel bright even in dense neighbourhoods.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "living-room",
+        "commercial-interior"
+      ],
+      "faqs": [
+        {
+          "q": "Do you handle interiors for older houses in Howrah?",
+          "a": "Yes. Older properties often need careful measurement, wall levelling and custom-built furniture instead of standard sizes, and we plan for that from the start."
+        },
+        {
+          "q": "Can you work in an occupied flat?",
+          "a": "Yes. We sequence work room by room so the family can keep living in the home, and keep dust protection and daily cleanup in place."
+        },
+        {
+          "q": "How do I start a project in Howrah?",
+          "a": "Call or WhatsApp +91 89004 78744 with your location and rough requirement, and we can arrange a site visit."
+        }
+      ]
+    },
+    {
+      "slug": "shibpur",
+      "name": "Shibpur",
+      "intro": "Shibpur mixes long-standing residential lanes with student and institutional housing around the engineering campus. Interiors here often need to make compact, older layouts feel open and organised.",
+      "context": "Many Shibpur properties have high ceilings and narrow floor plates. We use vertical storage, slim-profile furniture and light finishes to gain usable space, and cove lighting to bring warmth to tall rooms.",
+      "focus": [
+        "home-interior",
+        "bedroom",
+        "modular-kitchen",
+        "office-interior"
+      ],
+      "faqs": [
+        {
+          "q": "Can you make a small Shibpur flat feel larger?",
+          "a": "Yes. Full-height storage, lighter palettes, mirrors placed with intent and slim furniture profiles usually free up both floor area and visual space."
+        },
+        {
+          "q": "Do you design study or work corners?",
+          "a": "Yes. Compact study units built into bedrooms or living rooms are one of the most requested items in this area."
+        },
+        {
+          "q": "Do you take up single-room projects?",
+          "a": "Yes, single rooms such as one bedroom or one kitchen are welcome alongside full-home work."
+        }
+      ]
+    },
+    {
+      "slug": "santragachi",
+      "name": "Santragachi",
+      "intro": "Santragachi has seen steady new apartment development around the station and lake, and most projects here start with a fresh builder-finish flat that needs a complete interior fit-out.",
+      "context": "Builder handovers usually arrive with bare walls and a basic kitchen platform. We plan modular kitchens, wardrobes, TV units and false ceilings as a single package so the flat is move-in ready in one coordinated run.",
+      "focus": [
+        "modular-kitchen",
+        "home-interior",
+        "living-room",
+        "bedroom"
+      ],
+      "faqs": [
+        {
+          "q": "Can you do a full fit-out on a new flat?",
+          "a": "Yes. New handover flats are the most common project type in Santragachi and we cover kitchen, wardrobes, ceiling, lighting and furniture together."
+        },
+        {
+          "q": "Do you coordinate with apartment society rules?",
+          "a": "Yes. We work within society working hours, lift usage rules and material movement restrictions."
+        },
+        {
+          "q": "Which kitchen layout suits these flats?",
+          "a": "L-shaped and parallel layouts usually work best in Santragachi apartment kitchens; the final call depends on your plumbing and window positions."
+        }
+      ]
+    },
+    {
+      "slug": "bally",
+      "name": "Bally",
+      "intro": "Bally combines independent houses with newer mid-rise apartments, so projects here vary from single-room upgrades to full-house interiors across multiple floors.",
+      "context": "Multi-floor family homes are common in Bally, often shared between generations. We plan interiors floor by floor so each family unit gets privacy and its own storage, while finishes stay consistent through the house.",
+      "focus": [
+        "home-interior",
+        "bedroom",
+        "modular-kitchen",
+        "commercial-interior"
+      ],
+      "faqs": [
+        {
+          "q": "Can you design one floor at a time?",
+          "a": "Yes. Phasing a house floor by floor is common here and keeps the project manageable."
+        },
+        {
+          "q": "Do you handle false ceiling and lighting only?",
+          "a": "Yes, ceiling and lighting can be taken up as a standalone scope."
+        },
+        {
+          "q": "Do you also design shops in Bally?",
+          "a": "Yes, we take up retail and small commercial interiors along the main road stretches."
+        }
+      ]
+    },
+    {
+      "slug": "liluah",
+      "name": "Liluah",
+      "intro": "Liluah is a dense, well-connected residential pocket where practical storage and durable finishes usually matter more than statement pieces.",
+      "context": "Compact family flats near the railway belt need interiors that absorb clutter. We focus on concealed storage, wipe-clean surfaces and neutral palettes that keep small rooms calm.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "bedroom",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "What is a realistic scope for a 2BHK here?",
+          "a": "Typically a modular kitchen, two wardrobes, a TV unit and ceiling with lighting — we can stage it further if needed."
+        },
+        {
+          "q": "Do you use moisture-resistant materials?",
+          "a": "Yes, especially for kitchens and bathroom vanities, where we default to moisture-resistant boards and sealed edges."
+        },
+        {
+          "q": "Can you match interiors to existing furniture?",
+          "a": "Yes. We can pick finishes that sit well with furniture you want to keep."
+        }
+      ]
+    },
+    {
+      "slug": "belur",
+      "name": "Belur",
+      "intro": "Belur homes often lean towards a quieter, more traditional character, and many clients here want interiors that feel modern without losing warmth.",
+      "context": "We blend wood tones, soft ivory walls and restrained detailing to keep interiors contemporary yet familiar, including pooja spaces planned properly into the layout rather than added afterwards.",
+      "focus": [
+        "home-interior",
+        "living-room",
+        "bedroom",
+        "modular-kitchen"
+      ],
+      "faqs": [
+        {
+          "q": "Can you design a dedicated pooja space?",
+          "a": "Yes. We plan pooja units or dedicated corners with the right lighting, ventilation and storage."
+        },
+        {
+          "q": "Do you offer traditional-modern styling?",
+          "a": "Yes, a warm wood and neutral palette with modern joinery is a popular direction in this area."
+        },
+        {
+          "q": "How long does a full home take?",
+          "a": "Timelines depend on scope and site condition; we share a schedule after the site visit rather than a generic estimate."
+        }
+      ]
+    },
+    {
+      "slug": "salkia",
+      "name": "Salkia",
+      "intro": "Salkia's older, tightly packed housing stock calls for interiors built to exact measurement, since standard modular sizes rarely fit as-is.",
+      "context": "Irregular walls and narrow staircases are normal here, so we favour custom-built, site-assembled furniture over large pre-built units that cannot be carried in.",
+      "focus": [
+        "home-interior",
+        "bedroom",
+        "modular-kitchen",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "My walls are uneven — is that a problem?",
+          "a": "No. We measure on site and build to actual dimensions, with scribe fillers where needed for a clean finish."
+        },
+        {
+          "q": "Can furniture be assembled inside the flat?",
+          "a": "Yes, that is our usual approach for buildings with narrow access."
+        },
+        {
+          "q": "Do you take up renovation of existing furniture?",
+          "a": "In many cases yes, if the base structure is sound we can reface and refinish it."
+        }
+      ]
+    },
+    {
+      "slug": "kadamtala",
+      "name": "Kadamtala",
+      "intro": "Kadamtala sits close to central Howrah, with a mix of family flats and small commercial frontage that both benefit from a clean, contemporary interior update.",
+      "context": "Projects here often combine home and shop work for the same client. We keep a consistent design language across both while using tougher finishes on the commercial side.",
+      "focus": [
+        "home-interior",
+        "commercial-interior",
+        "modular-kitchen",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "Do you take up shop interiors?",
+          "a": "Yes, including display units, counters, lighting and signage co-ordination."
+        },
+        {
+          "q": "Can you work on weekends?",
+          "a": "Where building rules allow it, yes — useful for shops that cannot close on weekdays."
+        },
+        {
+          "q": "Is a site visit needed before starting?",
+          "a": "Yes, an on-site measurement visit is always the first step."
+        }
+      ]
+    },
+    {
+      "slug": "dasnagar",
+      "name": "Dasnagar",
+      "intro": "Dasnagar's residential streets are dominated by mid-sized family flats where the kitchen and bedroom storage tend to be the first upgrades.",
+      "context": "We often start with a modular kitchen here, then extend the same palette into wardrobes and living areas so the home reads as one design even when done in phases.",
+      "focus": [
+        "modular-kitchen",
+        "bedroom",
+        "home-interior",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "Can I start with just the kitchen?",
+          "a": "Yes, and we record the palette so later phases match exactly."
+        },
+        {
+          "q": "Do you provide 3D visuals?",
+          "a": "We share design layouts and visuals before execution so you can see the space before work begins."
+        },
+        {
+          "q": "Do you handle electrical and plumbing changes?",
+          "a": "Minor repositioning required by the design is coordinated as part of the project."
+        }
+      ]
+    },
+    {
+      "slug": "dumurjala",
+      "name": "Dumurjala",
+      "intro": "Dumurjala's more open surroundings and newer housing allow for lighter, airier interiors that make use of natural light and outdoor views.",
+      "context": "Where windows are generous we keep window walls clear, place storage on internal walls, and use sheer treatments so daylight stays part of the room.",
+      "focus": [
+        "home-interior",
+        "living-room",
+        "bedroom",
+        "office-interior"
+      ],
+      "faqs": [
+        {
+          "q": "Can you design around large windows?",
+          "a": "Yes. We plan storage on internal walls and use light window treatments to keep the daylight."
+        },
+        {
+          "q": "Do you design balcony or terrace areas?",
+          "a": "Yes, seating, decking and planter detailing can be included."
+        },
+        {
+          "q": "Do you work on home offices?",
+          "a": "Yes, dedicated work-from-home setups are a frequent request in this area."
+        }
+      ]
+    },
+    {
+      "slug": "andul",
+      "name": "Andul",
+      "intro": "Andul has a good share of independent houses with land around them, which opens up interiors with wider layouts and more generous living areas.",
+      "context": "With more floor area available, the design challenge shifts to zoning — defining living, dining and family areas without walls, using ceiling design, flooring changes and lighting.",
+      "focus": [
+        "home-interior",
+        "living-room",
+        "bedroom",
+        "modular-kitchen"
+      ],
+      "faqs": [
+        {
+          "q": "How do you zone a large open floor?",
+          "a": "Through ceiling design, lighting layers, rug placement and low partitions rather than solid walls."
+        },
+        {
+          "q": "Do you design entrance foyers?",
+          "a": "Yes, foyer panelling, seating and shoe storage are commonly included in Andul homes."
+        },
+        {
+          "q": "Can you handle a whole independent house?",
+          "a": "Yes, complete house interiors including all floors."
+        }
+      ]
+    },
+    {
+      "slug": "kona",
+      "name": "Kona",
+      "intro": "Kona, close to the expressway, has a growing mix of residences and small commercial units that need efficient, cost-aware interior solutions.",
+      "context": "Projects here often balance budget with durability. We recommend where to invest — kitchens, wardrobes, lighting — and where a simpler finish will perform just as well.",
+      "focus": [
+        "modular-kitchen",
+        "home-interior",
+        "commercial-interior",
+        "office-interior"
+      ],
+      "faqs": [
+        {
+          "q": "Where should I spend first?",
+          "a": "Usually the kitchen and bedroom storage, since those affect daily use most; decorative work can follow later."
+        },
+        {
+          "q": "Do you handle warehouse or unit offices?",
+          "a": "Yes, functional office interiors within commercial premises are covered."
+        },
+        {
+          "q": "Can materials be chosen to suit a budget?",
+          "a": "Yes, we present material options at different levels before finalising."
+        }
+      ]
+    },
+    {
+      "slug": "makardaha",
+      "name": "Makardaha",
+      "intro": "Makardaha is largely residential, with family homes that are often extended or renovated over time rather than built at once.",
+      "context": "Renovation-led work is common here, so we plan interiors that sit well with existing flooring, doors and window frames instead of assuming a blank shell.",
+      "focus": [
+        "home-interior",
+        "bedroom",
+        "living-room",
+        "modular-kitchen"
+      ],
+      "faqs": [
+        {
+          "q": "Can you work with my existing flooring?",
+          "a": "Yes. We select wall, furniture and ceiling finishes that complement floors you plan to keep."
+        },
+        {
+          "q": "Do you handle partial renovations?",
+          "a": "Yes, room-by-room renovation is a standard scope for us."
+        },
+        {
+          "q": "Will old and new work look mismatched?",
+          "a": "Not if the palette is planned together; we set that up before execution starts."
+        }
+      ]
+    },
+    {
+      "slug": "domjur",
+      "name": "Domjur",
+      "intro": "Domjur's homes and small business premises usually favour practical, hard-wearing interiors with a clean, modern look.",
+      "context": "We keep detailing simple and robust here — laminate and veneer finishes, straightforward joinery lines and lighting that is easy to maintain over the years.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "commercial-interior",
+        "bedroom"
+      ],
+      "faqs": [
+        {
+          "q": "Which finish lasts longest?",
+          "a": "Good-quality laminates on moisture-resistant boards hold up very well for daily-use areas."
+        },
+        {
+          "q": "Do you take up small commercial units?",
+          "a": "Yes, shops, offices and studios of most sizes."
+        },
+        {
+          "q": "Do you visit sites in Domjur?",
+          "a": "Yes. Call or WhatsApp +91 89004 78744 to arrange a visit."
+        }
+      ]
+    },
+    {
+      "slug": "amta",
+      "name": "Amta",
+      "intro": "Amta projects are typically independent homes where families want a complete, one-time interior rather than piecemeal additions.",
+      "context": "Because sites are further out, we plan material deliveries and execution in consolidated phases to keep the work efficient and the schedule predictable.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "bedroom",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "Do you take projects this far from Howrah town?",
+          "a": "Yes, we serve Amta and the surrounding areas; scheduling is planned in consolidated visits."
+        },
+        {
+          "q": "How is material supply managed?",
+          "a": "Materials are grouped and delivered in planned lots to reduce delays."
+        },
+        {
+          "q": "Can the whole house be done at once?",
+          "a": "Yes, and for locations like Amta a single continuous run is usually the most efficient approach."
+        }
+      ]
+    },
+    {
+      "slug": "uluberia",
+      "name": "Uluberia",
+      "intro": "Uluberia is a growing sub-division with new residential construction alongside established shops and commercial premises.",
+      "context": "We handle both sides here: home interiors for new builds and retail interiors for main-road businesses, using durable finishes suited to high usage.",
+      "focus": [
+        "home-interior",
+        "commercial-interior",
+        "modular-kitchen",
+        "office-interior"
+      ],
+      "faqs": [
+        {
+          "q": "Do you design showrooms in Uluberia?",
+          "a": "Yes, including display systems, counters and lighting layouts."
+        },
+        {
+          "q": "Can interiors be planned during construction?",
+          "a": "Yes, and it is ideal — electrical and plumbing points can be positioned correctly from the start."
+        },
+        {
+          "q": "Do you offer complete home packages?",
+          "a": "Yes, full-home interiors covering kitchen, wardrobes, ceiling and furniture."
+        }
+      ]
+    },
+    {
+      "slug": "bagnan",
+      "name": "Bagnan",
+      "intro": "Bagnan homes are often spacious independent houses, giving room for well-defined living, dining and bedroom zones.",
+      "context": "With more space to work with, we spend design time on proportion — ceiling heights, furniture scale and lighting spread — so large rooms feel warm rather than empty.",
+      "focus": [
+        "home-interior",
+        "living-room",
+        "bedroom",
+        "modular-kitchen"
+      ],
+      "faqs": [
+        {
+          "q": "How do you keep a large room from feeling empty?",
+          "a": "By using correctly scaled furniture, layered lighting and defined zones instead of pushing everything to the walls."
+        },
+        {
+          "q": "Do you design dining areas separately?",
+          "a": "Yes, including crockery units and pendant lighting."
+        },
+        {
+          "q": "Do you serve nearby villages around Bagnan?",
+          "a": "Yes, surrounding areas are covered — share your location when you call."
+        }
+      ]
+    },
+    {
+      "slug": "panchla",
+      "name": "Panchla",
+      "intro": "Panchla clients typically look for straightforward, well-built interiors with strong storage and a clean contemporary finish.",
+      "context": "We keep the design language simple and the build quality high here, prioritising wardrobes, kitchens and ceiling-with-lighting as the core scope.",
+      "focus": [
+        "modular-kitchen",
+        "bedroom",
+        "home-interior",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "What is usually included in a core package?",
+          "a": "Modular kitchen, bedroom wardrobes, a TV unit and false ceiling with lighting."
+        },
+        {
+          "q": "Can I add more work later?",
+          "a": "Yes, we keep drawings and finish details on record so later phases match."
+        },
+        {
+          "q": "Is custom furniture available?",
+          "a": "Yes, beds, wardrobes and units are built to your exact dimensions."
+        }
+      ]
+    },
+    {
+      "slug": "jagatballavpur",
+      "name": "Jagatballavpur",
+      "intro": "Jagatballavpur is largely a semi-rural residential belt where homes are being modernised with contemporary kitchens, storage and lighting.",
+      "context": "Most projects here are upgrades to existing houses, so we plan around current structure and services and introduce modern joinery and lighting without a full rebuild.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "bedroom",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "Can an old house be modernised without major civil work?",
+          "a": "In most cases yes — new joinery, ceiling, lighting and finishes change a home significantly with limited civil work."
+        },
+        {
+          "q": "Do you supply all materials?",
+          "a": "Yes, material supply and execution are handled together unless you prefer otherwise."
+        },
+        {
+          "q": "How do I get a quote?",
+          "a": "Call or WhatsApp +91 89004 78744 with your requirement and we will arrange a measurement visit."
+        }
+      ]
+    },
+    {
+      "slug": "penro",
+      "name": "Penro",
+      "intro": "Penro is a quiet residential pocket where families look for practical, well-built interiors that make everyday living easier without overstretching the budget.",
+      "context": "Projects in Penro often focus on the essentials — a modular kitchen, bedroom wardrobes and a clean living area — finished with durable materials that suit local conditions.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "bedroom",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "Do you take up small home interior projects in Penro?",
+          "a": "Yes. We are happy to start with a kitchen, one bedroom or a full-home package depending on your need."
+        },
+        {
+          "q": "What finishes work best here?",
+          "a": "We recommend easy-clean laminates and moisture-resistant boards for kitchens and wardrobes, which hold up well year after year."
+        },
+        {
+          "q": "How do I book a site visit in Penro?",
+          "a": "Call or WhatsApp +91 89004 78744 and we will arrange a convenient time to visit your site."
+        }
+      ]
+    },
+    {
+      "slug": "udaynarayanpur",
+      "name": "Udaynarayanpur",
+      "intro": "Udaynarayanpur has a mix of older family homes and newer construction, with most clients wanting interiors that feel fresh while respecting the existing layout.",
+      "context": "We work with the proportions and services already in place, adding storage, lighting and finishes that bring a contemporary feel without unnecessary structural change.",
+      "focus": [
+        "home-interior",
+        "living-room",
+        "bedroom",
+        "modular-kitchen"
+      ],
+      "faqs": [
+        {
+          "q": "Can you redesign an existing Udaynarayanpur house?",
+          "a": "Yes. We often refresh interiors with new joinery, ceiling, lighting and surface finishes while keeping the structure intact."
+        },
+        {
+          "q": "Do you design pooja spaces?",
+          "a": "Yes, we can plan a pooja unit or corner with proper lighting, ventilation and storage as part of the overall layout."
+        },
+        {
+          "q": "Is a full-home package available?",
+          "a": "Yes, we offer complete home interiors covering kitchen, wardrobes, living areas, ceilings and lighting."
+        }
+      ]
+    },
+    {
+      "slug": "khila",
+      "name": "Khila",
+      "intro": "Khila is a compact, well-connected locality where homes and small commercial units sit close together, often needing space-smart interiors.",
+      "context": "We focus on maximising usable space through built-in storage, multi-functional furniture and clean lines, keeping interiors practical for daily family life.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "bedroom",
+        "commercial-interior"
+      ],
+      "faqs": [
+        {
+          "q": "How do you make small Khila flats more functional?",
+          "a": "By using full-height wardrobes, compact kitchen layouts and wall-mounted storage to free up floor space."
+        },
+        {
+          "q": "Do you design shop interiors in Khila?",
+          "a": "Yes, we take up small retail and commercial interiors with display-led layouts and durable finishes."
+        },
+        {
+          "q": "Can I start with just one room?",
+          "a": "Yes, single-room projects are welcome and can be expanded later with matching finishes."
+        }
+      ]
+    },
+    {
+      "slug": "joynagar",
+      "name": "Joynagar",
+      "intro": "Joynagar is a growing residential area where new flats and independent houses need complete, move-in-ready interiors.",
+      "context": "Builder-finish flats are common here, so we typically deliver full fit-outs — modular kitchen, wardrobes, TV units, false ceiling and lighting — as one coordinated project.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "living-room",
+        "bedroom"
+      ],
+      "faqs": [
+        {
+          "q": "Can you do a full fit-out for a new Joynagar flat?",
+          "a": "Yes, new handover flats are a common project type and we cover all interior elements from kitchen to ceiling."
+        },
+        {
+          "q": "Do you work with apartment association rules?",
+          "a": "Yes, we schedule work within society timings and follow material movement and lift usage guidelines."
+        },
+        {
+          "q": "How long does a full-home interior take?",
+          "a": "It depends on scope and site readiness; we share a clear timeline after the site visit and finalisation."
+        }
+      ]
+    },
+    {
+      "slug": "bargachia",
+      "name": "Bargachia",
+      "intro": "Bargachia sits along a busy corridor with a mix of residences and small businesses, so interiors here need to be both attractive and hard-wearing.",
+      "context": "We use durable laminates, sturdy hardware and low-maintenance finishes that stand up to daily use, while keeping the design clean and modern.",
+      "focus": [
+        "home-interior",
+        "commercial-interior",
+        "modular-kitchen",
+        "office-interior"
+      ],
+      "faqs": [
+        {
+          "q": "Do you design both homes and shops in Bargachia?",
+          "a": "Yes, we handle residential interiors and small commercial spaces such as shops, offices and studios."
+        },
+        {
+          "q": "Which materials last best for high-use areas?",
+          "a": "Good-quality laminates on moisture-resistant boards, paired with branded hardware, are our default for daily-use spaces."
+        },
+        {
+          "q": "Can interiors be done in phases?",
+          "a": "Yes, we can split the work by room or floor and keep finishes consistent across phases."
+        }
+      ]
+    },
+    {
+      "slug": "patihal",
+      "name": "Patihal",
+      "intro": "Patihal is a semi-urban locality where families are upgrading older homes with modern kitchens, wardrobes and brighter, more organised living spaces.",
+      "context": "Most Patihal projects are renovation-led, so we plan around existing doors, windows and services, introducing new joinery and lighting that feels like a complete refresh.",
+      "focus": [
+        "home-interior",
+        "modular-kitchen",
+        "bedroom",
+        "living-room"
+      ],
+      "faqs": [
+        {
+          "q": "Can you modernise an old Patihal house?",
+          "a": "Yes. New joinery, false ceiling, lighting and surface finishes can transform an older home with minimal civil work."
+        },
+        {
+          "q": "Do you keep existing flooring and doors?",
+          "a": "Wherever possible we design around elements you want to retain, matching new work to the existing palette."
+        },
+        {
+          "q": "How do I start?",
+          "a": "Call or WhatsApp +91 89004 78744 with your address and requirement, and we will schedule a site visit."
+        }
+      ]
+    }
+  ]
+}

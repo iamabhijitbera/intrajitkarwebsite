@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://debanshu-luxe-spaces.lovable.app/sitemap.xml

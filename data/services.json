@@ -1,0 +1,170 @@
+{
+  "main": [
+    {
+      "slug": "home-interior",
+      "num": "01",
+      "title": "Home Interior",
+      "short": "Complete interior decoration for modern homes and apartments.",
+      "description": "Full-home interior decoration covering layout planning, storage, wall treatments, false ceiling, lighting and furniture, delivered as one coordinated project.",
+      "benefits": [
+        "One team for planning, execution and finishing",
+        "Storage designed around how your family lives",
+        "Material choices suited to Howrah's humid climate"
+      ],
+      "suitable": "Independent houses, 2BHK / 3BHK / 4BHK flats, duplexes",
+      "imageId": "home-interior"
+    },
+    {
+      "slug": "living-room",
+      "num": "02",
+      "title": "Living Room",
+      "short": "Elegant living spaces designed for comfort and style.",
+      "description": "TV units, feature walls, seating layouts, display niches and layered lighting that make the first room guests see feel considered and calm.",
+      "benefits": [
+        "Statement TV and feature wall design",
+        "Comfortable seating flow",
+        "Layered ambient and accent lighting"
+      ],
+      "suitable": "Apartments, houses, duplex drawing rooms",
+      "imageId": "living-room"
+    },
+    {
+      "slug": "bedroom",
+      "num": "03",
+      "title": "Bedroom",
+      "short": "Calm, beautiful and personalized bedroom interiors.",
+      "description": "Wardrobes, dressing units, headboard panelling, study corners and soft lighting designed for rest, with finishes chosen for daily use.",
+      "benefits": [
+        "Floor-to-ceiling wardrobe storage",
+        "Soft, restful lighting",
+        "Kids and guest bedroom options"
+      ],
+      "suitable": "Master bedrooms, kids rooms, guest rooms",
+      "imageId": "bedroom"
+    },
+    {
+      "slug": "modular-kitchen",
+      "num": "04",
+      "title": "Modular Kitchen",
+      "short": "Smart, stylish and functional kitchen interiors.",
+      "description": "Modular kitchens planned around the work triangle, with moisture-resistant carcasses, tall units, corner solutions and easy-clean shutters.",
+      "benefits": [
+        "L, U, parallel and island layouts",
+        "Moisture-resistant materials",
+        "Organised pantry and corner storage"
+      ],
+      "suitable": "Apartments, houses, small kitchens needing more storage",
+      "imageId": "modular-kitchen"
+    },
+    {
+      "slug": "office-interior",
+      "num": "05",
+      "title": "Office Interior",
+      "short": "Professional interiors designed for productive workspaces.",
+      "description": "Workstations, cabins, reception areas and meeting rooms planned for headcount, acoustics and a professional first impression.",
+      "benefits": [
+        "Efficient workstation planning",
+        "Branded reception areas",
+        "Practical cable and storage management"
+      ],
+      "suitable": "Corporate offices, clinics, co-working floors, home offices",
+      "imageId": "office-interior"
+    },
+    {
+      "slug": "commercial-interior",
+      "num": "06",
+      "title": "Commercial Interior",
+      "short": "Modern interiors for shops, studios and commercial spaces.",
+      "description": "Retail and hospitality interiors built around customer flow, display, lighting and durable finishes that hold up to heavy footfall.",
+      "benefits": [
+        "Display-led retail layouts",
+        "Durable, low-maintenance finishes",
+        "Lighting that sells the product"
+      ],
+      "suitable": "Showrooms, shops, salons, studios, restaurants",
+      "imageId": "commercial-interior"
+    }
+  ],
+  "extended": [
+    {
+      "slug": "apartment-interior-design",
+      "title": "Apartment Interior Design",
+      "text": "Space-efficient interiors for flats where every square foot has to earn its place."
+    },
+    {
+      "slug": "dining-room-interior",
+      "title": "Dining Room Interior",
+      "text": "Crockery units, panelling and pendant lighting that turn dining into an occasion."
+    },
+    {
+      "slug": "bathroom-interior",
+      "title": "Bathroom Interior",
+      "text": "Vanity units, mirror lighting, tiling and storage designed for moisture and easy upkeep."
+    },
+    {
+      "slug": "false-ceiling",
+      "title": "False Ceiling",
+      "text": "POP and gypsum ceilings with cove lighting, defined zones and clean, crisp edges."
+    },
+    {
+      "slug": "lighting-design",
+      "title": "Lighting Design",
+      "text": "Ambient, task and accent layers planned together so each room can change mood."
+    },
+    {
+      "slug": "custom-furniture",
+      "title": "Custom Furniture",
+      "text": "Made-to-measure beds, wardrobes, TV units and shelving built for your exact dimensions."
+    },
+    {
+      "slug": "shop-interior",
+      "title": "Shop Interior",
+      "text": "Compact retail interiors with strong displays, signage and durable surfaces."
+    }
+  ],
+  "process": [
+    {
+      "num": "01",
+      "title": "Discover",
+      "text": "Understand your space, requirements and design preferences."
+    },
+    {
+      "num": "02",
+      "title": "Plan",
+      "text": "Develop the right layout, style and design direction."
+    },
+    {
+      "num": "03",
+      "title": "Design",
+      "text": "Create an interior concept tailored to your space."
+    },
+    {
+      "num": "04",
+      "title": "Execute",
+      "text": "Bring the design to life with professional execution."
+    },
+    {
+      "num": "05",
+      "title": "Transform",
+      "text": "Enjoy your newly designed space."
+    }
+  ],
+  "why": [
+    {
+      "title": "Personalized Design",
+      "text": "Every space is planned around your lifestyle and preferences."
+    },
+    {
+      "title": "Smart Space Planning",
+      "text": "Make the most of every corner without compromising aesthetics."
+    },
+    {
+      "title": "Quality Finishing",
+      "text": "Attention to materials, details and finishing."
+    },
+    {
+      "title": "Complete Interior Solutions",
+      "text": "From individual rooms to complete residential and commercial interiors."
+    }
+  ]
+}

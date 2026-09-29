@@ -1,0 +1,87 @@
+{
+  "heroes": [
+    {
+      "id": "hero-1",
+      "src": "assets/images/hero-1.jpg",
+      "alt": "Luxury living room interior with layered lighting designed by Debanshu Interior Decoration in Howrah"
+    },
+    {
+      "id": "hero-2",
+      "src": "assets/images/hero-2.jpg",
+      "alt": "Premium bedroom interior with warm finishes by Debanshu Interior Decoration, Howrah"
+    },
+    {
+      "id": "hero-3",
+      "src": "assets/images/hero-3.jpg",
+      "alt": "Modern modular kitchen interior designed by Debanshu Interior Decoration in Howrah"
+    }
+  ],
+  "products": [
+    {
+      "id": "home-interior",
+      "src": "assets/images/home-interior.webp",
+      "alt": "Complete home interior with contemporary finishes in Howrah",
+      "usedFor": [
+        "home-interior",
+        "false-ceiling"
+      ]
+    },
+    {
+      "id": "living-room",
+      "src": "assets/images/living-room.webp",
+      "alt": "Marble and gold living room TV feature wall in Howrah",
+      "usedFor": [
+        "living-room"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "src": "assets/images/bedroom.webp",
+      "alt": "Bedroom wardrobe and dresser unit in a Shibpur apartment",
+      "usedFor": [
+        "bedroom"
+      ]
+    },
+    {
+      "id": "modular-kitchen",
+      "src": "assets/images/modular-kitchen.webp",
+      "alt": "Modern modular kitchen with tall units in Santragachi",
+      "usedFor": [
+        "modular-kitchen"
+      ]
+    },
+    {
+      "id": "office-interior",
+      "src": "assets/images/office-interior.webp",
+      "alt": "Office display and storage wall interior in Howrah",
+      "usedFor": [
+        "office-interior"
+      ]
+    },
+    {
+      "id": "bathroom-vanity",
+      "src": "assets/images/bathroom-vanity.webp",
+      "alt": "Under-stair vanity and bathroom storage design in Bally",
+      "usedFor": [
+        "bathroom-interior"
+      ]
+    },
+    {
+      "id": "commercial-interior",
+      "src": "assets/images/commercial-interior.webp",
+      "alt": "Marble finish commercial TV console and display unit in Belur",
+      "usedFor": [
+        "commercial-interior"
+      ]
+    },
+    {
+      "id": "modular-kitchen-blue",
+      "src": "assets/images/modular-kitchen-blue.webp",
+      "alt": "Two-tone blue modular kitchen in Liluah",
+      "usedFor": [
+        "modular-kitchen",
+        "shop-interior"
+      ]
+    }
+  ]
+}

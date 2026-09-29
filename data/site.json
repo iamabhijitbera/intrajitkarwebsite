@@ -1,0 +1,57 @@
+{
+  "businessName": "Debanshu Interior Decoration",
+  "tagline": "Premium Interior Decoration Services in Howrah, West Bengal",
+  "phoneDisplay": "+91 89004 78744",
+  "phoneTel": "tel:+918900478744",
+  "whatsappNumber": "918900478744",
+  "whatsappMessage": "Hello Debanshu Interior Decoration, I would like to discuss my interior design requirements.",
+  "whatsappLink": "https://wa.me/918900478744?text=Hello%20Debanshu%20Interior%20Decoration%2C%20I%20would%20like%20to%20discuss%20my%20interior%20design%20requirements.",
+  "locality": "Howrah",
+  "region": "West Bengal",
+  "country": "India",
+  "siteUrl": "https://debanshu-luxe-spaces.lovable.app",
+  "nav": [
+    {
+      "label": "Home",
+      "href": "index.html"
+    },
+    {
+      "label": "About",
+      "href": "about.html"
+    },
+    {
+      "label": "Services",
+      "href": "services.html"
+    },
+    {
+      "label": "Projects",
+      "href": "projects.html"
+    },
+    {
+      "label": "Locations",
+      "href": "locations.html"
+    },
+    {
+      "label": "Contact",
+      "href": "contact.html"
+    }
+  ],
+  "footerAreas": [
+    "howrah",
+    "shibpur",
+    "santragachi",
+    "bally",
+    "liluah",
+    "belur",
+    "andul",
+    "domjur",
+    "uluberia",
+    "bagnan",
+    "penro",
+    "udaynarayanpur",
+    "khila",
+    "joynagar",
+    "bargachia",
+    "patihal"
+  ]
+}
